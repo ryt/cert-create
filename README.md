@@ -2,7 +2,7 @@
 
 Perl-based OpenSSL command generator for generating ssl certificates.
 
-Instructions:
+#### Instructions:
 
 1. Make `create.pl` executable.
 ```
@@ -12,7 +12,7 @@ $ chmod +x create.pl
 3. Run the outputted commands sequentially as needed.
 
 
-Usage:
+#### Usage:
 
 ```
   Command        Domain       CAFilename     Company        City          State
