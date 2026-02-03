@@ -4,7 +4,7 @@ use warnings;
 
 my $v = "0.0.2";
 my $man = '
-Copyright (c) 2024 Ray Mentose.
+Copyright (C) 2024 Ray (github.com/ryt)
 
 OpenSSL command generator for generating ssl certificates.
 
